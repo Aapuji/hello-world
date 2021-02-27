@@ -1,2 +1,7 @@
 # hello-world
-Hello World stuffs.
+
+Hello!
+
+This is my first repository, so yeah.
+
+Goodybye!
